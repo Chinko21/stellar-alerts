@@ -1,0 +1,33 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/451-discord-interactive-alert-actions",
+    "feat/dashboard-componentization",
+    "feat/phase-2-core-engine",
+    "main",
+    "origin",
+    "task-17",
+    "task-18",
+    "task-19"
+  ],
+  "parent": {
+    "feat/451-discord-interactive-alert-actions": "main",
+    "feat/dashboard-componentization": "main",
+    "feat/phase-2-core-engine": "main",
+    "main": null,
+    "origin": "main",
+    "task-17": "main",
+    "task-18": "main",
+    "task-19": "main"
+  },
+  "order": [
+    "main",
+    "feat/451-discord-interactive-alert-actions",
+    "feat/dashboard-componentization",
+    "feat/phase-2-core-engine",
+    "origin",
+    "task-17",
+    "task-18",
+    "task-19"
+  ]
+}
